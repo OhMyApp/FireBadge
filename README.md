@@ -1,4 +1,4 @@
-# StatusBadges
+# FireBadge
 A simple Firebase webservice to create badges/shields for your CI like:
 
 ![Badge Status](https://img.shields.io/badge/badge-status-brightGreen)
