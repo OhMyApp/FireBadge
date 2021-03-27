@@ -1,5 +1,5 @@
-# Presentation
-A simple webservice to save badges/shields like:
+# StatusBadges
+A simple Firebase webservice to create badges/shields for your CI like:
 
 ![Badge Status](https://img.shields.io/badge/badge-status-brightGreen)
 
